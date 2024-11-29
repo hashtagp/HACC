@@ -1,0 +1,132 @@
+{
+    "questions": [
+        {
+            "question": "When is the hackathon?",
+            "answer": "The hackathon is on 8th and 9th November 2024."
+        },
+        {
+            "question": "What is the theme of the hackathon?",
+            "answer": "The theme is AI for Good and Sustainable Development."
+        },
+        {
+            "question": "What are the tracks in the hackathon?",
+            "answer": "The tracks are AI in Agriculture, AI in Healthcare, and AI in Environment Sustainability."
+        },
+        {
+            "question": "Can you list all the sub-areas in the AI in Agriculture track?",
+            "answer": "AI in Agriculture includes Precision Farming, Smart Irrigation Systems, Market Price Prediction, Crop Monitoring and Management, and Soil Health Monitoring."
+        },
+        {
+            "question": "Can you list all the sub-areas in the AI in Healthcare track?",
+            "answer": "AI in Healthcare includes Early Detection of Chronic Diseases, Personalized Treatment Plans, Remote Health Monitoring and Alerts, Virtual Health Assistants, AI for Mental Health Support, and AI in Health Insurance Claims Processing."
+        },
+        {
+            "question": "Can you list all the sub-areas in the AI in Environment Sustainability track?",
+            "answer": "AI in Environment Sustainability includes Air Quality Monitoring and Prediction, Water Quality Monitoring, Biodiversity Monitoring and Conservation, Climate Change Impact Analysis, and Urban Green Space Management."
+        },
+        {
+            "question": "Who is eligible to participate?",
+            "answer": "The hackathon is open to students of the School of Computing & IT at REVA University."
+        },
+        {
+            "question": "How do I form a team?",
+            "answer": "Teams of 3-4 members must be formed before or during the registration process."
+        },
+        {
+            "question": "Is registration compulsory?",
+            "answer": "Yes, registration is compulsory for every team to participate in the Hackathon."
+        },
+        {
+            "question": "Is there a registration fee?",
+            "answer": "Yes, a nominal registration fee will be informed."
+        },
+        {
+            "question": "When is the registration deadline?",
+            "answer": "The registration deadline will be informed later."
+        },
+        {
+            "question": "What happens after registration?",
+            "answer": "Participants will receive a confirmation email upon successful registration."
+        },
+        {
+            "question": "What is the code of conduct?",
+            "answer": "Participants must adhere to a code of conduct that promotes respect, collaboration, and inclusivity."
+        },
+        {
+            "question": "What are the project requirements?",
+            "answer": "Projects must be original and developed during the hackathon. Teams may use open-source libraries, frameworks, and APIs but must disclose them during project submission."
+        },
+        {
+            "question": "What are the judging criteria?",
+            "answer": "Projects will be evaluated based on innovation, technical complexity, usability, and impact."
+        },
+        {
+            "question": "What happens if a team breaks the rules?",
+            "answer": "Teams may be disqualified for violating rules, engaging in unethical practices, or failing to comply with organizer instructions."
+        },
+        {
+            "question": "What are the presentation requirements?",
+            "answer": "Teams must prepare a demo or presentation of their project for judging. Presentation time limits and guidelines will be communicated in advance."
+        },
+        {
+            "question": "Will there be prizes?",
+            "answer": "Yes, prizes and awards will be informed later."
+        },
+        {
+            "question": "What is the schedule of the event?",
+            "answer": "The event schedule will be shared later."
+        },
+        {
+            "question": "How can I give feedback after the event?",
+            "answer": "Feedback will be collected after the event to improve future hackathons."
+        },
+        {
+            "question": "How many people are allowed in each team?",
+            "answer": "Teams should consist of 3 to 4 members."
+        },
+        {
+            "question": "Can we use open-source tools or libraries?",
+            "answer": "Yes, teams may use open-source libraries, frameworks, and APIs but must disclose them during project submission."
+        },
+        {
+            "question": "Can we work on an existing project?",
+            "answer": "No, projects must be original and developed during the hackathon."
+        },
+        {
+            "question": "What are the rules for team composition?",
+            "answer": "Teams must be composed of students from the School of Computing & IT at REVA University. Teams of 3-4 members are required."
+        },
+        {
+            "question": "Will there be any mentorship or guidance provided?",
+            "answer": "Yes, mentors will be available during the hackathon to guide teams."
+        },
+        {
+            "question": "Do we need to submit the project code?",
+            "answer": "Yes, teams must submit their project code along with any required documentation during the project submission."
+        },
+        {
+            "question": "How will the judging process work?",
+            "answer": "Judges will evaluate the projects based on innovation, technical complexity, usability, and the overall impact of the project."
+        },
+        {
+            "question": "Will there be breaks during the hackathon?",
+            "answer": "Yes, the event schedule, including breaks, will be shared with participants."
+        },
+        {
+            "question": "What if a team member drops out?",
+            "answer": "If a team member drops out, the remaining team can still continue the project as long as the minimum team size is maintained."
+        },
+        {
+            "question": "Will food and beverages be provided?",
+            "answer": "Yes, food and beverages will be provided during the event."
+        },
+        {
+            "question": "Do we need to bring our own laptops?",
+            "answer": "Yes, participants are expected to bring their own laptops and any other required equipment."
+        },
+        {
+            "question": "What happens if our project isn't finished by the deadline?",
+            "answer": "Teams are encouraged to submit their projects even if they are not completely finished, as long as the core functionality is demonstrated."
+        }
+    ]
+}
